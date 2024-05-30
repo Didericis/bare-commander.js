@@ -2,6 +2,10 @@
   "name": "commander",
   "version": "12.1.0",
   "description": "the complete solution for node.js command-line programs",
+  "pear": {
+    "name": "cli",
+    "type": "terminal"
+  },
   "keywords": [
     "commander",
     "command",
@@ -80,5 +84,11 @@
   "engines": {
     "node": ">=18"
   },
-  "support": true
+  "support": true,
+  "dependencies": {
+    "bare-events": "^2.3.1",
+    "bare-fs": "^2.3.0",
+    "bare-path": "^2.1.3",
+    "bare-process": "^2.1.1"
+  }
 }
