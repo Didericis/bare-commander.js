@@ -1,5 +1,11 @@
 # Commander.js
 
+## bare-commander.js cloned from https://github.com/Didericis/bare-commander.js
+
+To hold tweaks necessary to make it run on __pear__.
+
+## Intro
+
 [![Build Status](https://github.com/tj/commander.js/workflows/build/badge.svg)](https://github.com/tj/commander.js/actions?query=workflow%3A%22build%22)
 [![NPM Version](http://img.shields.io/npm/v/commander.svg?style=flat)](https://www.npmjs.org/package/commander)
 [![NPM Downloads](https://img.shields.io/npm/dm/commander.svg?style=flat)](https://npmcharts.com/compare/commander?minimal=true)
